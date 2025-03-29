@@ -37,10 +37,9 @@ function Projects() {
         </p>
       </a>
     <a href="https://github.com/Rafcha7957/new-website" style={{ textDecoration: "none" }} className="card">
-        <h2 className="card__title">Бэкенд старого сайта</h2>
+        <h2 className="card__title">Новый сайт</h2>
         <p className="card__text">
-          Старый бэк сайта, который я даже не доделал, а должен это быть блог),
-          как руки дойдут допишу)
+            Менее привлекательный но лучше старого
         </p>
       </a>
     </div>
