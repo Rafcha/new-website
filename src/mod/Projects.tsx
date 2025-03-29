@@ -36,6 +36,13 @@ function Projects() {
           как руки дойдут допишу)
         </p>
       </a>
+    <a href="https://github.com/Rafcha7957/new-website" style={{ textDecoration: "none" }} className="card">
+        <h2 className="card__title">Бэкенд старого сайта</h2>
+        <p className="card__text">
+          Старый бэк сайта, который я даже не доделал, а должен это быть блог),
+          как руки дойдут допишу)
+        </p>
+      </a>
     </div>
     <p style={{ textAlign: "center" }} className="card__text">
       © Сайт был сделан Rafcha(мной)
