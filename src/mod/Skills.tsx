@@ -13,16 +13,20 @@ function Skills() {
     </Link>
     <div className="container">
       <a href="https://www.rust-lang.org/" style={{ textDecoration: "none" }} className="card">
-        <h2 className="card__title">Rust</h2>
-        <p className="card__text">Безопасный язык программирования</p>
+        <h2 className="card__title">Rust (уже плохо)</h2>
+        <p className="card__text">Мемори сейфти язык программирования</p>
       </a>
       <a href="https://www.w3schools.com/c/c_intro.php" style={{ textDecoration: "none" }} className="card">
         <h2 className="card__title">C</h2>
-        <p className="card__text">Старый язык программирования</p>
+        <p className="card__text">Эаэаэаэ, просто классный</p>
+      </a>
+      <a href="https://tokio.rs/" style={{ textDecoration: "none" }} className="card">
+        <h2 className="card__title">С++</h2>
+        <p className="card__text">Более крутой чем си(смотря в каких целях)</p>
       </a>
       <a href="https://www.python.org/" style={{ textDecoration: "none" }} className="card">
         <h2 className="card__title">Python</h2>
-        <p className="card__text">Лёгкий язык программирования</p>
+        <p className="card__text">Злая змея</p>
       </a>
       <a href="https://ecma-international.org/publications-and-standards/standards/ecma-262/" style={{ textDecoration: "none" }} className="card">
         <h2 className="card__title">Javascript</h2>
@@ -47,14 +51,6 @@ function Skills() {
       <a href="https://elysiajs.com/" style={{ textDecoration: "none" }} className="card">
         <h2 className="card__title">Elysia</h2>
         <p className="card__text">JS/TS фреймворк</p>
-      </a>
-      <a href="https://tokio.rs/" style={{ textDecoration: "none" }} className="card">
-        <h2 className="card__title">tokio</h2>
-        <p className="card__text">Штука для Rust'a)</p>
-      </a>
-      <a href="https://docs.rs/axum/latest/axum/" style={{ textDecoration: "none" }} className="card">
-        <h2 className="card__title">axum</h2>
-        <p className="card__text">Штука для Rust'a)</p>
       </a>
     </div>
     <p style={{ textAlign: "center" }} className="card__text">
