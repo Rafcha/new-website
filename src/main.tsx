@@ -1,7 +1,7 @@
 import { createRoot } from 'react-dom/client'
 import { BrowserRouter, Route, Routes } from "react-router";
 import App from './App.tsx'
-import Skills from './mod/skills.tsx';
+import Skills from './mod/Skills.tsx';
 import Projects from './mod/Projects.tsx';
 import './index.css'
 
